@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoodsList.css"],"names":[],"mappings":"AAAA,aACE,eAAgB,CAChB,cACF,CAEA,2BACE,SACF,CAEA,4BACE,UACF","file":"main.f0dd9aa7.chunk.css","sourcesContent":[".Goods__list {\r\n  list-style: none;\r\n  font-size: 20px;\r\n}\r\n\r\n.Goods__item:nth-child(even) {\r\n  color: red;\r\n}\r\n\r\n.Goods__item:nth-child(odd) {\r\n  color: blue;\r\n}\r\n"]}
